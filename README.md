@@ -35,10 +35,11 @@ public class Kunal {
 }
 ```
 
-> 19, from VIT-AP. I build full products — web apps, IoT dashboards, AI chat — and ship them live instead of leaving them in a folder. If it isn't deployed, it isn't done.
+> Most of what I build is vibe-coded — but the ideas are mine. My mind generates them; AI just helps me ship them. I don't know everything, I just know how things work.
 
 - 🔭 **Currently building:** AGRIFLOW — ESP32 smart irrigation with a live Firebase dashboard, with my Engineering Clinics team
 - 🌱 **Currently learning:** DSA in Java — graphs, DP & Lab FAT prep
+- 💡 **The ideas are mine:** my mind generates them — AI just helps me build them
 - 💬 **Ask me about:** Java, DSA, React front-ends, ESP32/IoT builds, vibe coding
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kunal-ugale) · [Instagram](https://www.instagram.com/kunal.0gale)
 
@@ -73,9 +74,9 @@ public class Kunal {
 ## 🏙️ My 3D contribution city
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg" />
-  <img alt="Kunal's GitHub contributions as a 3D city" src="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg?v=2" />
+  <img alt="Kunal's GitHub contributions as a 3D city" src="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg?v=2" />
 </picture>
 
 ## 🏆 Achievements
@@ -114,9 +115,9 @@ public class Kunal {
 ## 🐍 Watch the snake eat my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg" />
-  <img alt="Snake eating Kunal's contribution graph" src="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg?v=2" />
+  <img alt="Snake eating Kunal's contribution graph" src="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg?v=2" />
 </picture>
 
 ## 🔗 Find me
