@@ -60,6 +60,7 @@ public class Kunal {
 | [**ReturnDesk**](https://github.com/kunal4060/returndesk) | E-commerce returns & refunds, item-level ledger — built for IMPACTX 2026, Team CJP | [returndesk-kunal4060s-projects.vercel.app](https://returndesk-kunal4060s-projects.vercel.app) |
 | [**Thanos Snap**](https://github.com/kunal4060/thanos-snap) | Chrome extension I built myself — snap your fingers and dissolve out of Meet, Teams & Zoom calls | [Install from the repo](https://github.com/kunal4060/thanos-snap) |
 | [**NeoCollabVITAP**](https://github.com/kunal4060/NeoCollabVITAP) | Python keyboard-automation helper for VIT-AP NeoCollab lab practice | [vitapcolab129.examly.io](https://vitapcolab129.examly.io/) |
+| [**AGRIFLOW**](https://github.com/kunal4060/agriflow) | ESP32 smart plant-watering system — live moisture, temperature & humidity on a Firebase dashboard | [Live dashboard](https://agriflow-kunal4060s-projects.vercel.app/) |
 
 ## 📊 GitHub stats
 
