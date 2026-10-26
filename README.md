@@ -100,6 +100,17 @@ public class Kunal {
 </details>
 
 
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/kunalu4060?theme=dark&ext=heatmap)](https://leetcode.com/u/kunalu4060/)
+
+</div>
+
+23 problems solved so far (Easy 16 · Medium 5 · Hard 2).
+
 ## 🐍 Watch the snake eat my contributions
 
 <picture>
@@ -114,7 +125,7 @@ public class Kunal {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Ugale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ugale)
 [![Instagram](https://img.shields.io/badge/Instagram-kunal.0gale-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal.0gale)
 
-- **LeetCode:** _username slot — to be added_
+[![LeetCode](https://img.shields.io/badge/LeetCode-kunalu4060-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kunalu4060/)
 
 ---
 
