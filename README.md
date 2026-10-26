@@ -10,7 +10,7 @@
   <a href="https://github.com/kunal4060"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT-AP;Building+in+public%2C+one+ship+at+a+time;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Node+%E2%80%A2+React;I+don%27t+know...+but+AI+knows" alt="Typing animation"></a>
 </p>
 
-## About — in code
+## 👨‍💻 About me
 
 ```java
 public class Kunal {
@@ -37,13 +37,18 @@ public class Kunal {
 
 > 19, from VIT-AP. I build full products — web apps, IoT dashboards, AI chat — and ship them live instead of leaving them in a folder. If it isn't deployed, it isn't done.
 
-## Tech stack
+- 🔭 **Currently building:** AGRIFLOW — ESP32 smart irrigation with a live Firebase dashboard, with my Engineering Clinics team
+- 🌱 **Currently learning:** DSA in Java — graphs, DP & Lab FAT prep
+- 💬 **Ask me about:** Java, DSA, React front-ends, ESP32/IoT builds, vibe coding
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kunal-ugale) · [Instagram](https://www.instagram.com/kunal.0gale)
+
+## 🛠️ Tech I use
 
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,python&theme=dark" alt="Tech stack"></a>
 </p>
 
-## What I have shipped
+## 📌 Featured projects
 
 | Project | What it is | Live |
 |---|---|---|
@@ -55,14 +60,25 @@ public class Kunal {
 | **GLITCHERS / NEXA** | Student companion app — schedule, finance, AI assistant | [kunal4060.github.io/GLITCHERS](https://kunal4060.github.io/GLITCHERS/) |
 | **Dolphin Chat** | Uncensored LLM chat — Dolphin 8B on Colab T4, ChatGPT-style UI on Vercel | [colab-chat-kunal4060s-projects.vercel.app](https://colab-chat-kunal4060s-projects.vercel.app) |
 
-## GitHub stats
+## 📊 GitHub stats
 
 <p align="left">
   <a href="https://github.com/kunal4060"><img src="https://github-readme-stats.vercel.app/api?username=kunal4060&show_icons=true&theme=transparent&title_color=00C9A7&icon_color=22C55E&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub stats" height="160"></a>
   <a href="https://github.com/kunal4060"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal4060&layout=compact&theme=transparent&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top languages" height="160"></a>
+  <br>
+  <a href="https://github.com/kunal4060"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal4060&background=0d1117&ring=00C9A7&fire=22C55E&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00C9A7&sideLabels=00C9A7&dates=c9d1d9&hide_border=true" alt="GitHub streak"></a>
 </p>
 
-## Achievements
+
+## 🏙️ My 3D contribution city
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg" />
+  <img alt="Kunal's GitHub contributions as a 3D city" src="https://raw.githubusercontent.com/kunal4060/kunal4060/main/profile-3d-contrib/profile-green.svg" />
+</picture>
+
+## 🏆 Achievements
 
 - **Pull Shark** — 2+ pull requests merged
 - **Quickdraw & YOLO** — earned 26 Oct 2026 (GitHub is still processing them onto the profile)
@@ -70,7 +86,7 @@ public class Kunal {
 ## Journey
 
 <details>
-<summary><b>How I got here — click to expand</b></summary>
+<summary><b>📖 My journey so far — click to open</b></summary>
 
 <br>
 
@@ -83,13 +99,25 @@ public class Kunal {
 
 </details>
 
-## Find me
 
-- **GitHub:** [@kunal4060](https://github.com/kunal4060)
-- **LinkedIn:** [in/kunal-ugale](https://www.linkedin.com/in/kunal-ugale)
-- **Instagram:** [@kunal.0gale](https://www.instagram.com/kunal.0gale) — *"Polymath / शून्य ते अनंत"*
+## 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg" />
+  <img alt="Snake eating Kunal's contribution graph" src="https://raw.githubusercontent.com/kunal4060/kunal4060/output/github-snake.svg" />
+</picture>
+
+## 🔗 Find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-kunal4060-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal4060)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Ugale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ugale)
+[![Instagram](https://img.shields.io/badge/Instagram-kunal.0gale-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal.0gale)
+
 - **LeetCode:** _username slot — to be added_
 
 ---
 
 <p align="center"><i>शून्य ते अनंत — from zero to infinity.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:22C55E&height=110&section=footer" width="100%" alt="" />
