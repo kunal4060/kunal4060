@@ -24,3 +24,4 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "Generate snake"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
