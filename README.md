@@ -36,10 +36,13 @@ public class Kunal {
 ```
 
 > Most of what I build is vibe-coded — but the ideas are mine. My mind generates them; AI just helps me ship them. I don't know everything, I just know how things work.
+>
+> I learn by building. Every project here started as an idea in my head — I figured out how it should work, then built it with AI.
 
 - 🔭 **Currently building:** AGRIFLOW — ESP32 smart irrigation with a live Firebase dashboard, with my Engineering Clinics team
 - 🌱 **Currently learning:** DSA in Java — graphs, DP & Lab FAT prep
 - 💡 **The ideas are mine:** my mind generates them — AI just helps me build them
+- 🧠 **How I work:** I figure out how something works first, then build it — with AI doing the typing alongside me
 - 💬 **Ask me about:** Java, DSA, React front-ends, ESP32/IoT builds, vibe coding
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kunal-ugale) · [Instagram](https://www.instagram.com/kunal.0gale)
 
