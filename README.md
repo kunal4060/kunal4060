@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kunal4060"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT-AP;Building+in+public%2C+one+ship+at+a+time;Java+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+ESP32;I+don%27t+know...+but+AI+knows" alt="Typing animation"></a>
+  <a href="https://github.com/kunal4060"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT-AP;Building+in+public%2C+one+ship+at+a+time;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Node+%E2%80%A2+React;I+don%27t+know...+but+AI+knows" alt="Typing animation"></a>
 </p>
 
 ## About — in code
@@ -21,10 +21,11 @@ public class Kunal {
     String regNo   = "25BCE7607";
 
     String[] stack = {
-        "Java", "Python", "TypeScript", "JavaScript",
-        "React", "Next.js", "Tailwind CSS",
-        "Firebase", "ESP32 / Arduino", "DSA", "Git", "Vercel"
+        "HTML", "CSS", "JavaScript", "Node.js",
+        "React", "DSA in Java", "Python"
     };
+
+    String role = "Full-time vibecoder";
 
     boolean building = true;   // always
 
@@ -39,7 +40,7 @@ public class Kunal {
 ## Tech stack
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,tailwind,firebase,arduino,git,github,vercel,vscode&theme=dark" alt="Tech stack"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,python&theme=dark" alt="Tech stack"></a>
 </p>
 
 ## What I have shipped
