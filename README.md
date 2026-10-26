@@ -56,13 +56,9 @@ public class Kunal {
 
 | Project | What it is | Live |
 |---|---|---|
-| **BitSwap** | USDT invoice payments — Next.js + WalletConnect, on-chain TXID verification | [bitswap.vercel.app](https://bitswap.vercel.app) |
-| **PaperVault** | VIT-AP question-paper + notes portal (Firebase + React) | [repo](https://github.com/kunal4060/papervault) |
-| **ReturnDesk** | E-commerce returns & refunds, item-level ledger — built for IMPACTX 2026, Team CJP | [returndesk-kunal4060s-projects.vercel.app](https://returndesk-kunal4060s-projects.vercel.app) |
-| **Smart Factory 4.0** | Industry 4.0 dashboard — live charts, React + Recharts | [kunal4060.github.io/smart-factory-4.0](https://kunal4060.github.io/smart-factory-4.0/) |
-| [**AGRIFLOW**](https://github.com/kunal4060/agriflow) | ESP32 smart irrigation — live moisture / temperature / humidity on a Firebase dashboard | [agriflow-kunal4060s-projects.vercel.app](https://agriflow-kunal4060s-projects.vercel.app) |
-| **GLITCHERS / NEXA** | Student companion app — schedule, finance, AI assistant | [kunal4060.github.io/GLITCHERS](https://kunal4060.github.io/GLITCHERS/) |
-| **Dolphin Chat** | Uncensored LLM chat — Dolphin 8B on Colab T4, ChatGPT-style UI on Vercel | [colab-chat-kunal4060s-projects.vercel.app](https://colab-chat-kunal4060s-projects.vercel.app) |
+| [**GLITCHERS / NEXA**](https://github.com/kunal4060/GLITCHERS) | Student companion app — schedule, finance, AI assistant | [kunal4060.github.io/GLITCHERS](https://kunal4060.github.io/GLITCHERS/) |
+| [**ReturnDesk**](https://github.com/kunal4060/returndesk) | E-commerce returns & refunds, item-level ledger — built for IMPACTX 2026, Team CJP | [returndesk-kunal4060s-projects.vercel.app](https://returndesk-kunal4060s-projects.vercel.app) |
+| [**Thanos Snap**](https://github.com/kunal4060/thanos-snap) | Chrome extension I built myself — snap your fingers and dissolve out of Meet, Teams & Zoom calls | [Install from the repo](https://github.com/kunal4060/thanos-snap) |
 
 ## 📊 GitHub stats
 
